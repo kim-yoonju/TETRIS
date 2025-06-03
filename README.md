@@ -1,4 +1,4 @@
-# Project
+[TETRIS_RL.pdf](https://github.com/user-attachments/files/20563250/TETRIS_RL.pdf)# Project
 - Tetris with reinforcement learning
 
 ### About the project
@@ -18,6 +18,8 @@ The project was developed using the following technologies and their respective 
 - pillow v5.4.1
 - tqdm v4.31.1
 
+# PPT
+[TETRIS_RL.pdf](https://github.com/user-attachments/files/20563252/TETRIS_RL.pdf)
 
 # License
 No licence
